@@ -1,0 +1,19 @@
+li{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+li:hover{
+  text-decoration: underline;
+}
+
+ul{
+  float: left
+}
+
+p{
+  float: right;
+  display: none;
+  border-style: solid 2px;
+  backgrround-color: white;
+}
