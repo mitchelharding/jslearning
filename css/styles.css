@@ -1,3 +1,8 @@
+
+h1{
+  text-align: center;
+  }
+
 li{
   cursor: pointer;
   color: #0088cc;
@@ -15,5 +20,9 @@ p{
   float: right;
   display: none;
   border-style: solid 2px;
-  backgrround-color: white;
+  background-color: white;
+}
+
+class.clicked{
+  color: red;
 }
